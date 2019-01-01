@@ -1,2 +1,2 @@
-# outfit-it
-Rapidly refactor machine learning model code for production
+# Outfit-it 
+Rapidly refactor machine learning model code for training and production.
