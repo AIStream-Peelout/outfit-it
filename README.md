@@ -1,2 +1,2 @@
 # Outfit-it 
-Rapidly refactor machine learning model code for training and production.
+Rapidly refactor machine learning code for training and production. The goal of out-fit it is to refactor code made primarily for research purposes to work in production applications. Outfit-it integrates with other AIStream products.
